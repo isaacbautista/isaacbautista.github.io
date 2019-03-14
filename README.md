@@ -1,27 +1,29 @@
-Hyperspace by HTML5 UP
 
-html5up.net | @ajlkn
+Webpage Theme:
 
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+    Hyperspace by HTML5 UP
 
+    html5up.net | @ajlkn
 
-Credits:
-
-
-	Demo Images:
-
-		Unsplash (unsplash.com)
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-	Icons:
+    Credits:
 
-		Font Awesome (fontawesome.io)
+    	Demo Images:
+
+    		Unsplash (unsplash.com)
 
 
-	Other:
+    	Icons:
 
-		jQuery (jquery.com)
+    		Font Awesome (fontawesome.io)
 
-		Scrollex (github.com/ajlkn/jquery.scrollex)
 
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+    	Other:
+
+    		jQuery (jquery.com)
+
+    		Scrollex (github.com/ajlkn/jquery.scrollex)
+
+    		Responsive Tools (github.com/ajlkn/responsive-tools)
