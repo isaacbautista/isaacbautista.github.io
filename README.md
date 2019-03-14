@@ -1,5 +1,10 @@
 
-Webpage Theme:
+# Isaac Bautista
+
+### Portfolio Page
+
+
+### Webpage Theme:
 
     Hyperspace by HTML5 UP
 
@@ -11,17 +16,13 @@ Webpage Theme:
     Credits:
 
     	Demo Images:
-
     		Unsplash (unsplash.com)
 
 
     	Icons:
-
     		Font Awesome (fontawesome.io)
 
-
     	Other:
-
     		jQuery (jquery.com)
 
     		Scrollex (github.com/ajlkn/jquery.scrollex)
