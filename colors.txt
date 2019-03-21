@@ -2,3 +2,5 @@
 
 .style3 - about me - #004362
 .style1 - welcome  - #003064
+
+sidebar gradient #6B7887, #99ACC1
