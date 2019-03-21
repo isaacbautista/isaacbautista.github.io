@@ -1,0 +1,4 @@
+#sidebar - sidebar - #0E2F44
+
+.style3 - about me - #004362
+.style1 - welcome  - #003064
